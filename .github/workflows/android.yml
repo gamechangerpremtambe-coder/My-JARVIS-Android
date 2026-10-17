@@ -1,4 +1,7 @@
+name: Build JARVIS APK
 
+on:
+  workflow_dispatch:
 name: JARVIS Android APK
 
 on:
