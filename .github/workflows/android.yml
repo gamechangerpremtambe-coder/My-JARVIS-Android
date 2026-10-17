@@ -1,4 +1,4 @@
-- uses: android-actions/setup-android@v3
+
 name: JARVIS Android APK
 
 on:
